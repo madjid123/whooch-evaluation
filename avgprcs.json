@@ -1,0 +1,66 @@
+{
+  "pl2": {
+    "arabic": {
+      "arabic1_pl2.csv": 0.871,
+      "arabic0_pl2.csv": 0.646,
+      "arabic1pl2_int.csv": 0.364,
+      "arabic2_pl2.csv": 1.0,
+      "arabic2pl2_int.csv": 0.273,
+      "arabic0pl2_int.csv": 0.663
+    },
+    "antiviral": {
+      "antiviral0_pl2.csv": 0.61,
+      "antiviral1_pl2.csv": 1.0,
+      "antiviral1pl2_int.csv": 0.273,
+      "antiviral2pl2_int.csv": 0.372,
+      "antiviral2_pl2.csv": 0.498,
+      "antiviral0pl2_int.csv": 0.429
+    },
+    "network": {
+      "network2_pl2.csv": 0.915,
+      "network1pl2_int.csv": 0.84,
+      "network1_pl2.csv": 0.915,
+      "network21_pl2.csv": 0.95,
+      "network2pl2_int.csv": 0.84,
+      "network12_pl2.csv": 0.813,
+      "network0pl2_int.csv": 0.84,
+      "network02_pl2.csv": 0.813,
+      "network11_pl2.csv": 0.95,
+      "network01_pl2.csv": 0.95,
+      "network0_pl2.csv": 0.915,
+      "network22_pl2.csv": 0.813
+    }
+  },
+  "bm25": {
+    "arabic": {
+      "arabic1bm25_int.csv": 0.364,
+      "arabic0_bm25.csv": 0.779,
+      "arabic0bm25_int.csv": 0.767,
+      "arabic2bm25_int.csv": 0.273,
+      "arabic1_bm25.csv": 0.871,
+      "arabic2_bm25.csv": 1.0
+    },
+    "antiviral": {
+      "antiviral2_bm25.csv": 0.512,
+      "antiviral2bm25_int.csv": 0.37,
+      "antiviral0_bm25.csv": 0.592,
+      "antiviral1bm25_int.csv": 0.273,
+      "antiviral1_bm25.csv": 1.0,
+      "antiviral0bm25_int.csv": 0.414
+    },
+    "network": {
+      "network12_bm25.csv": 0.809,
+      "network1bm25_int.csv": 0.834,
+      "network02_BM25.csv": 0.809,
+      "network2bm25_int.csv": 0.834,
+      "network11_bm25.csv": 0.96,
+      "network0bm25_int.csv": 0.834,
+      "network0_bm25.csv": 0.909,
+      "network21_bm25.csv": 0.96,
+      "network2_bm25.csv": 0.909,
+      "network01_BM25.csv": 0.96,
+      "network22_bm25.csv": 0.809,
+      "network1_bm25.csv": 0.909
+    }
+  }
+}
