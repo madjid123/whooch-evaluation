@@ -1,0 +1,35 @@
+Given a set of photographs of real objects or a scene, estimate the closest Three-dimensional geometry
+that specifically explains those photographs. In Computer Vision literature, this problem is known as
+Image-based Modelling or Multi-view Stereo (MVS) reconstruction. It is considered a hot research topic
+due to the huge technological advances of digital cameras, where these last became a cheap and reliable
+high resolution sensors. In fact, its application range from 3D mapping and navigations in robotics to video
+games and film making industry. Only recently however has this technique matured enough to be used
+in a natural uncontrolled environment. Meanwhile, Virtual Reality (VR) is witnessing a huge revolution
+due to the advances in display, sensing, and computing technology. In fact, the VR head mounted displays
+are mass produced, and a wide variety of people have access to this technology, consequently, experiences
+like virtual society, virtual travelling and tele-presence flourish.
+This class of applications however depends significantly on the visual fidelity of its contents. For instance,
+some applications capture a panoramic view of the remote environment, others build the virtual world
+inspired by real-life locations using classical modelling techniques, hence any false representation can
+render the experience inadequate due to the absence of immersion. Photogrammetry (also known as Multiview
+Stereo) on the other hand seems to be a natural answer to this problem. Nevertheless, achieving a
+high degree of visual fidelity becomes a challenge because these algorithms suffer from multiple major
+failure modes.
+This dissertation addresses the two major problem in multi-view stereo reconstruction related to virtual
+reality applications. First, we are focused on the interactivity. Such aspect puts the real-time as a high
+priority constraint. Thus, the reconstruction methods must be able to estimate the 3D shape of a static or
+dynamic object accurately in a matter of milliseconds. In fact, research proved that it is possible to use
+multiple cameras attached to cluster of networked computer, and model the 3D geometry of any rigid or
+static body in real-time. However, such setup is cost-effective. Hence, we study the possibility of building
+a simpler system that run on a single machine, and we present a GPU accelerated image-based modelling
+system, the algorithm estimate and render on the fly all visible parts of a visual hull from a novel viewpoint without noticeable artifact. We carefully adapted our algorithm implementation to the recent off-the-shelf
+hardware.
+In the second part, we investigate the accuracy of the offline reconstructed objects. We aim for highly
+immersive virtual reality experiences. Therefore, it is a necessity for MVS to preform on large cluster of
+images such as community photo collection. These datasets not only they are large but also contain numerous
+settings in which photogrammetry fails. We propose a robust shading aware multi-view stereo method
+based on meta-heuristic optimization namely the Particle Swarm Optimization (PSO) to faithfully reconstruct
+textureless areas without any explicit regularization. Furthermore, to handle the various shading and
+stereo mismatch problems caused by a non-Lambertian surfaces, we present our robust matching/energy
+function which is a combination of two similarity measurements. Finally, qualitative and quantitative
+experiments are performed for multiple benchmarks, proving the effectiveness of our approach.
