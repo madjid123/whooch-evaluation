@@ -1,0 +1,16 @@
+The strut-and-tie model provides one of the most useful design methods for shear critical concrete structures,
+ and it gives a better understanding of the force flow in cracked reinforced concrete members,
+ with struts representing the flow of compressive stresses and ties representing the flow of tension stresses.
+ Prestressed precast hollow core slabs are used extensively for floors and roofs in precast concrete construction.
+ For these prestressed concrete members without web reinforcement, shear can be critical for certain load configurations. 
+The strut and tie model provides a tool for predicting the flexural and shear capacity of these slabs. 
+This study presents a new strut-and-tie model to predict the ultimate load-carrying capacity of prestressed precast hollow
+ core slabs and also to indicate the associated mode of failure. It is important to incorporate concrete tension
+ elements (concrete ties) in the truss model to carry the diagonal tension forces in these members.
+ An experimental program involving full-scale load-testing of 17 hollow core slabs, 4.7 m and 2.2 m in span and having 
+three different depths, 200 mm, 250 mm and 300 mm was conducted by using the four point load test.
+ The flexural and shear strength of 17 prestressed precast hollow core (PPHC) slabs with different shear 
+span-to-depth (a/d) ratio were investigated experimentally and analytically.
+ The results obtained from the proposed strut-and-tie model have been compared with experimental results
+ The proposed strut-and-tie model provides good agreement with the experimental results,
+ and it can be employed for the analysis and design of hollow core slabs.
