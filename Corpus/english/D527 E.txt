@@ -1,0 +1,19 @@
+Alternative energy generation is an evolving field of research to meet the future energy demands and environmental sustainability, as the fossil fuels burning caused tremendous anthropogenic devastations, lately. Therefore, the main objective of this Ph.D. dissertation is to develop advance heterostructure and hybrid nanoarrays (NAs) materials for energy conversion applications. We especially explored the photoelectrochemical (PEC) water splitting characteristics of various NAs, which were directly fabricated 
+on the self-supported photoelectrode. The potential materials choose for this purpose include
+ Ag/خ±.Fe2O3/TiO2, RGO/ZnO, GaON/ZnO, RGO/ZnO/PVDF, and Au/In2O3. Ag/خ±.Fe2O3/TiO2,
+ and Au/In2O3 NAs were developed by modified electrochemical anodization technique.
+ Whereas RGO/ZnO, GaON/ZnO, RGO/ZnO/PVDF NAs have been synthesized by sonochemical assisted wet chemistry methods. 
+Various characterization techniques were applied to explore the physicochemical properties. 
+The morphological features were investigated using a field emission scanning electron microscopy (FESEM). 
+Energy dispersion spectroscopy (EDS or EDX) and X-ray photoelectron spectroscopy (XPS) used to determine chemical states and bonding, 
+elemental confirmation, and distribution of the constituent elements. X-ray diffraction (XRD) analysis was performed to investigate
+ the crystallinity, phase, and facet arrangement of the NAs. Fourier transform infrared (FTIR) and Raman spectroscopies were utilized 
+to study the vibrational bands and phonon modes.
+ The photoluminescence (PL) and UV-Vis/diffuse reflectance spectroscopy (DRS) were found useful to explore the optoelectronic behaviors 
+of the NAs such as the charge recombination behavior of photoinduced electrons/holes, optical band gaps and bands positions, respectively.
+ The electrochemical techniques such as cyclic voltammetry (CV), linear sweep voltammetry (LSV), chronoamperometry (I-t), 
+electronic impedance spectroscopy (Nyquist plot) were used to measure the performance of the as-synthesized NAs for energy 
+harvesting applications in terms of photocurrent densities (mA/cm2), stability, charge transfer capacity and solar 
+to hydrogen (STH) efficiencies. Additionally, the elastic RGO/ZnO/PVDF NAs were also tested for piezoelectric applications 
+via oscilloscope and related techniques. Finally, we also proposed the respective mechanisms for the as-synthesized heterostructure 
+NAs systems for each application with literature and experimental support. The overall research was performed at the lab scale.
