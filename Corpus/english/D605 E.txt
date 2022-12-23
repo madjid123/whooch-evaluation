@@ -1,0 +1,11 @@
+We propose a formal approach for development of safe web applications. This approach involves
+the generation of a web application on both sides (usersâ€™ side (Ajax) and the web service side
+(Composition)) from formal specifications. First, we describe the application using symbolic notations
+(CTT), then an automatic process is applied in order to translate them into formal specifications B.
+Using the B refinement process, a set of refinement rules, operating on data and operations. These
+phases of refinement are intended to make the final specifications close to the implementation
+language chosen so that the last coding phase becomes intuitive and natural. In general, the process of
+refinement is a manual task, relatively expensive; with character generic of these refinement rules, an
+assisted refinement tool can be achieved, enabling reduction the cost of the refining process. Finally,
+in the case study, we have developed a complete application (Travel Agency) in order to show the
+benefits of our approach.
