@@ -1,0 +1,24 @@
+In the present work, the synergistic extraction of three metals copper(II), cobalt(II) and
+nickel(II) from sulfate media with capric acid in the presence of synergistic agents tri-noctylphosphine oxide (TOPO) and methylisobutylketone (MIBK) into chloroform at 25 آ°C,
+has been carried out.
+The study of the acid-base behavior capric acid in a biphasic chloroform-water
+(Na2SO4) system showed that pKA MIBK > pKA chloroforme > pKA dichloromأ©thane.
+The study of the acid- base behavior of the mixture (capric acid-TOPO) and (capric
+acid-MIBK) in the chloroform-water (Na2SO4) system revealed the interaction between capric
+acid and TOPO on the one hand and capric acid and MIBK on the other.
+In the absence of synergistic agent, the extracted species for copper(II), cobalt(II) and
+nickel(II) in the organic phase have been found to be CuL22HL, CoL22HL, NiL2 and NiL2HL,
+and their extraction equilibrium can be formulated as:
+Cu 2 HL CuL (HL) 2H 2,org 2 2, org
+ï€« ï€« ï€« ï€« logKex = -7,17
+ ï€¨ ï€©
+2 Co 2 HL CoL (HL) 2H 2,org 2 2, org
+ï€« ï€« ï€« ï€« logKex = -11,87
+ ï€¨ ï€©
+2 Ni HL NiL 2H 2,org 2, org
+ï€« ï€« ï€« ï€« logKex = -14,20
+ ï€¨ ï€©
+2 Ni 3/ 2 HL NiL 2H 2,org 2 org HL ï€« ï€« ï€« ï€« logKex =-12,81
+
+The presence of the synergistic agent TOPO and MIBK in the system chloroformwater (Na2SO4) at low concentrations showed a synergistic effect. Whereas increasing the
+concentration of TOPO and MIBK in the organic phase results a decrease of the extraction
