@@ -1,0 +1,20 @@
+This thesis discusses various methods and issues involved in the generation of physicochemical,
+quantum chemical, graph theoretical, descriptors, molecular fingerprint and chemical space
+descriptors etc, for in silico molecular design approaches. A futuristic perspective of structural
+indices in drug design is outlined. All chemists use models, models are very useful because they
+often represent a simple way of describing and predicting scientific results without the work of
+performing the complex mathematical manipulations dictated by a rigorous theory.
+The main purpose of this thesis was to perform computational investigations on Hydantoin using
+ab initio and Density Functional Theory (DFT) methods at an appropriate high level of theory, in
+order to get better insight into the structures and energetic of these compounds. Systematic
+investigations on the dependence of several geometric parameters of Hydantoin on the level of
+theory used led to the outcome that optimizations with best method DFT B3LYP/6-31G+(d,p),
+6-31G++(d,p), 6-311G++(d,p) than ab initio /HF /6-31G+(d,p), 6-31G++(d,p) , 6-311G++(d,p)
+model chemistries yield a resulting geometry which is in excellent agreement with the
+experimental findings. We are interested in this work a computational study of the Hydantoin
+and Hydantoins.
+In this thesis, molecular modeling approach was used to study the structural, vibrational and
+electronic nucleus of Hydantoin to present the most stable molecular conformation and also
+define the best method as the basis for study the chemical reactivity of this last. The study of the
+reactivity of the Hydantoin directly related to the study of their substitution. A qualitative study
+on the relationship structure-properties of a bioactive series of Hydantoin was carried out. 
