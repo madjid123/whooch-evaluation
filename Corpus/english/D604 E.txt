@@ -1,0 +1,26 @@
+Radiofrequency identification (RFID) systems are among the most important
+embedded systems that saw fast evolutions during the last years. These systems are used in
+several applications, such as, health, transportation, access control, etc. However, the
+communication in this technology is based on radio waves, which poses problems in
+security and privacy.
+In the literature of design and implementation of authentication protocols on RFID
+systems, we can find many protocols developed using various algebraic and cryptographic
+primitives (asymmetric cryptosystems, symmetric cryptosystems, hash function, bitwise
+operators, etc.). The limitation of resources (e.g. memory, computation, etc.) on low-cost
+RFID tags does not permit the implementation of all the cryptosystems. Among
+cryptographic primitives used to secure the RFID authentication protocols, we cite codebased cryptography. It is very fast, it resists quantum attacks, and does not require any
+crypto-processor.
+In our thesis, we analyse the security of several recent RFID authentication
+protocols. We propose a new RFID protocol oriented towards access control applications.
+It uses cryptographic hash function and Biometric hash function. After that, we propose
+two improved protocols based on two variants of McEliece encryption scheme, the first is
+the randomized McEliece cryptosystem, and the second is Quasi Cyclic-Moderate Density
+Parity Check (QC-MDPC) McEliece cryptosystem.
+Our work also includes a comparison between our proposed protocols and different
+existing protocols based on error-correcting codes in terms of security and performance.
+Security properties are proved by AVISPA (Automated Verification Internet Protocol and
+its Applications) tools, and the privacy property is verified by Ouafi-Phan model. The
+Performance of proposed protocols is analysed in terms of storage requirement,
+communication cost and computational cost. The performance of our protocols are
+effective, donâ€™t need to do exhaustive search, and the tag can perform lightweight
+cryptographic operations
