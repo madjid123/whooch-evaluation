@@ -1,0 +1,10 @@
+The present research includes fouling related experimental work and the reliability-based statistical analysis of the fouling data.
+ In this regard, several replicate experiments related to CaCOâ‚ƒ scaling under identical operating conditions are conducted.
+ In addition data is obtained from literature regarding corrosion fouling.
+ The fouling curves are drawn as a function of time and corresponding to a critical fouling resistance Rf,c, 
+the probability distribution of time 't' to reach this critical level of fouling and some of its associated functions are determined.
+ The distribution for time to foul 't' for CaCOâ‚ƒ is found to be inverted normal of خ±-distribution,
+ whereas for the case of corrosion it is a modified version of خ±-distribution.
+ Thermoeconomic analysis id carried out for a heat-exchanger used in the preheat train of crude oil refining process.
+ In this regard, a dimensionless cost function is derived and the influence of vrious parameters
+ on the optimum costs and maintenance period have been studied by incorporating a risk factor p.
