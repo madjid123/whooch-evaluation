@@ -1,0 +1,13 @@
+The search for new interconnection materials or perovskite type electrode (ABO3) has been the subject of a large number of investigations in the field of catalysis applied to industrial processes.
+This research is particularly oriented towards the preparation of high-performance catalysts which must meet certain criteria: long-term chemical and mechanical stability, high catalytic activity, ease of use and low cost.
+In recent years, perovskite-type oxides based on LaGaO3 have been widely studied for use as solid oxide fuel cell (SOFC) electrolyte materials at intermediate temperature.
+However, the high cost of gallium compounds and their low mechanical strength are the main obstacles to the use of solid electrolytes based on LaGaO3 in SOFC applications. Therefore, replacing the Ga element with an inexpensive element, such as Al, is highly desirable.
+ Work undertaken has found that rare earth aluminates exhibit ionic conduction.
+The conductivity of LaAlO3 has been significantly related to the advantages of their structure for substituting cations in the A and / or B sub-networks with cations of the same or different valence.
+The possibility of using aluminate-based materials as an electrode or solid oxide fuel cell (SOFC) interconnect material.
+Research undertaken has revealed that the size, morphology, texture and non-stoichiometry of powders play a significant role in the intrinsic properties of these materials.
+ The chemical homogeneity of the materials, significantly improved by low-temperature synthesis, is also a very important parameter for obtaining reproducible properties.
+
+Extensive research has been done to synthesize fine and homogeneous powders of pure and substituted perovskite La AlO3 at lower temperatures using various chemical processes including solid state reaction, microwave, combustion and sol-gel unfortunately, all these methods are complex or expensive, which limits their large-scale applications.
+ To remedy these drawbacks, the process by the coprecipitation route is a simple method for the synthesis of these nanopowders.
+ The present work aims to develop lanthanum aluminate catalysts substituted by Nickel in the B sub-network using the co-precipitation process and to study the effect of the substitution rate on their physicochemical and electrochemical properties.
