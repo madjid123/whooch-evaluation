@@ -1,0 +1,12 @@
+The huge volume of digital documents available, has become a problem for the
+process of interrogation and access to relevant information.
+Most of these documents have a structure (physical and logical), but it is
+difficult to be identified and used, making painful retrieving relevant parts of
+information.
+In our case we are interested in the structural-semantic modeling of documents
+representation and put them in a readable format to be effectively usable by
+information search algorithms.
+Our objective in this work is to return the fragment of the most relevant
+documents. We model the homogeneous collections of documents, such as scientific
+publications, articles and theses in PDF or Word format, and web documents such as
+Wikipedia pages in XML format.
