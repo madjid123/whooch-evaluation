@@ -1,0 +1,11 @@
+Molecular modeling brings together the techniques of visualization, manipulation, analysis and calculation of spatial structure.
+Molecular modeling is increasingly used today to study chemical reactivity.
+Modeling also offers many opportunities in experimental biology.
+ Thus, molecular modeling makes it possible to obtain, for example, the structure of the transition state of a given chemical reaction, which is difficult, if not impossible, for experimental chemistry.
+ The number of theoretical studies using these techniques, to guide or clarify experimental observations.
+ Research carried out on the basis of scientific data oriented on biology and published by Pubmed on the years 2010â€گ2011, lists more than 1,800 studies.
+ Growing ever faster with power and computing capacity.
+Theoretical methods that make it possible to calculate data relating to the structure and properties of a molecule can be subdivided into two categories: molecular mechanics and quantum mechanics (semi-empirical, ab initio and DFT).
+ The relationships between the structures of molecules and their properties or activities are generally established using statistical learning modeling methods.
+ The usual techniques are based on the characterization of molecules by a set of descriptors, real numbers measured or calculated from molecular structures. It is then possible to establish a relation between these descriptors and the modeled quantity.
+This research work takes place in the context of a fundamental and original study on two types of molecules, thiazoles and oxazoles. The main objective of this work is the application of different methods of molecular modeling to predict the chemical reactivities and biological activities expected in new bioactive molecules for the types of molecules studied.
