@@ -1,0 +1,8 @@
+,document,relevant,recall,precision,f-measure
+0,D005,True,0.2,1.0,0.333
+1,D258,False,0.2,0.5,0.286
+2,D196,False,0.2,0.333,0.25
+3,D198,False,0.2,0.25,0.222
+4,D426,False,0.2,0.2,0.2
+5,D434,False,0.2,0.167,0.182
+6,D162,False,0.2,0.143,0.167
