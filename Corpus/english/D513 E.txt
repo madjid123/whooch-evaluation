@@ -1,0 +1,20 @@
+Solar adsorption refrigeration systems have been increasingly attracting some research interests since 
+last decade because they are clean, cheap and simple for use in air conditioning, ice making, 
+food preservation and vaccine storage specially for remote areas. The idea of these devices is the reversible
+ physical adsorption of vapor on the surface of a porous solid.
+ The system consists of three important components: solar collector with adsorbent bed, condenser and evaporator.
+ The main objectives of this work are to improve the performance of the solar intermittent refrigeration system
+ that uses activated carbon and methanol as adsorbent and adsorbate pair. 
+The improvement of the systemâ€™s performance is achieved through investigating the effect of the main operative
+ and constructive parameters of the system. EES and MATLAB computer programs are exploited to analyze 
+the thermodynamic cycle of the system and to model the system under Dhahran climate conditions, respectively.
+ The results show that the increase in the condenser temperature needs high values of the desorption temperature
+ while lowering values of the evaporator temperature needs low values in the adsorption temperature to improve
+ the performance. The absorbers of collector should have thin wall and should be coated by high absorptivity
+ and low emissivity material. About 14.1 kg/m2 of activated carbon NORIT RX3-Extra per m2 of collector
+ surface is a suitable optimum choice for adsorption ice maker devices. Furthermore, double glazing,
+ tilt angle of the solar collector and starting the cycle at suitable time as well as suitable collector back
+ insulation increase the performance. Moreover, the study proposes an activated carbon/methanol solar
+ adsorption ice-maker that could produce from 5 kg up to 13 kg of ice per day per m2 of collector area with improved
+ solar coefficients of performance of 0.12 and 0.24 according to weather conditions in the hot and the cold days,
+ respectively.
